@@ -1,0 +1,5 @@
+alert('no');
+alert('Good morning!');
+20 - 5
+document.body.innerHTML = 'Simon';
+10 + 8 + 20
