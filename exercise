@@ -1,0 +1,9 @@
+' muhammad ajnas '
+'my name is' + ' muhammad ajnas '
+`total cost:  ${3 + 5}`
+alert(`total cost:  ${3 + 5}`)
+alert(`Total cost: $${5 + 3}`);
+'Total cost: $' + (599 + 295) / 100
+alert(`Total cost: $${(599 + 295) / 100}`);
+alert(`Total cost: $${(599 + 295) / 100}
+Thank you, come again!`);
